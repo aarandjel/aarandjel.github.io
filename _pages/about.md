@@ -11,4 +11,4 @@ I am an Assistant Professor at the [Institute for Statistics and Mathematics](ht
 
 I received my doctorate from TU Wien and Macquarie University under the supervision of Uwe Schmock and Pavel V. Shevchenko. I previously held a postdoctoral appointment at ETH Zurich, where I was affiliated with the [FinsureTech Hub](https://finsuretech.ethz.ch) in the Department of Mathematics.
 
-My research is concerned with probability theory and stochastic analysis, in particular with problems arising in mathematical finance and insurance. Current interests include stochastic integration and approximation, conditional distributions, stochastic control, and probabilistic aspects of machine learning, as well as stochastic models in climate economics.
+My research is concerned with probability theory and stochastic analysis, in particular with problems arising in mathematical finance and insurance. My interests include stochastic integration and approximation, stochastic control and simulation, pricing and hedging, actuarial risk models, and probabilistic aspects of machine learning. I am also interested in stochastic models in climate economics.
