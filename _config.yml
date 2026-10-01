@@ -24,13 +24,13 @@ repository               : "aarandjel/aarandjel.github.io"
 author:
   # Biographic information
   avatar           : "arandjelovic-photo.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Aleksandar Arandjelović"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Vienna"
+  employer         : "WU Vienna University of Economics and Business"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aleksandar.arandjelovic@wu.ac.at" 
 
   # Academic websites
   academia         : # URL
