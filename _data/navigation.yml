@@ -11,8 +11,8 @@ main:
   - title: "About"
     url: /
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Papers"
+    url: /papers/
 
   - title: "Talks"
     url: /talks/    
