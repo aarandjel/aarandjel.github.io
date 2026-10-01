@@ -33,12 +33,12 @@ author:
   email            : "aleksandar.arandjelovic@wu.ac.at" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=MbWLXV0AAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0003-2949-4860"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Arandjelovic%2C+Aleksandar"
+  academia         : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-2949-4860"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
