@@ -27,8 +27,8 @@ author:
   name             : "Aleksandar Arandjelović"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Vienna"
-  employer         : "WU Vienna University of Economics and Business"
+  location         : # "Vienna"
+  employer         : "WU Vienna"
   uri              : # URL
   email            : "aleksandar.arandjelovic@wu.ac.at" 
 
