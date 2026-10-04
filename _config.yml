@@ -12,7 +12,7 @@ site_theme               : "contrast" # The available themes options are "defaul
 title                    : "Aleksandar Arandjelović"
 title_separator          : "-"
 name                     : &name "Aleksandar Arandjelović"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic website of Aleksandar Arandjelović, with research in probability, stochastic analysis, mathematical finance, insurance, machine learning, and climate economics."
 url                      : https://aarandjel.github.io     # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -149,9 +149,13 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person
+  name: "Aleksandar Arandjelović"
+  links:
+    - "https://research.wu.ac.at/en/persons/aleksandar-arandjelovic/"
+    - "https://scholar.google.com/citations?user=MbWLXV0AAAAJ&hl=en"
+    - "https://orcid.org/0000-0003-2949-4860"
+    - "https://arxiv.org/search/?searchtype=author&query=Arandjelovic%2C+Aleksandar"
 
 
 # Analytics
